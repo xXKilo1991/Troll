@@ -1,0 +1,6 @@
+while true; do
+Killall "Safari"
+Killall "Google Chrome"
+Killall "Terminal"
+Killall "iTerm2"
+done &
